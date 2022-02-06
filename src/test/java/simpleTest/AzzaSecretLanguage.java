@@ -61,7 +61,7 @@ public class AzzaSecretLanguage {
 //        char[] theeChar2 = new char[theChar.length];
 //        for ( int i = 0; i<theChar.length; i++) {
 //            theeChar2[i] = theeChar1[theChar[i] + "ppp "];
-////            String q = String.valueOf(theChar[i] + "ttt ");
+////            String q = String.valueOf(theChar[i ] + "ttt ");
 //        }
 //        String q = new String(theChar);
 //        System.out.println(q);
